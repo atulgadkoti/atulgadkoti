@@ -1,14 +1,15 @@
-##  Hey, I am **Atul Gadkoti**
+## Hey, I am Atul Gadkoti
 
+I am a student who enjoys competitive programming in C++, building Android apps  
+using Kotlin & Jetpack Compose, and currently learning Machine Learning  
+to solve real-world problems.
 
- I am a **student** who enjoys **competitive programming in C++**,  building **Android apps using Kotlin & Jetpack Compose**,  
-and  currently **learning Machine Learning** to solve real-world problems.
----
 ## 🔗 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-atulgadkoti%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:atulgadkoti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atul%20Gadkoti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atul-gadkoti-645079315)
-[![Codeforces](https://img.shields.io/badge/Codeforces-AtulGadkoti-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/AtulGadkoti)
+
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulgadkoti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-gadkoti-645079315)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AtulGadkoti)
 
 ---
 
