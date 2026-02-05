@@ -7,7 +7,7 @@ to solve real-world problems.
 ## 🔗 Connect with me
 
 
-[![Email](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulgadkoti@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulgadkoti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-gadkoti-645079315)
 [![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AtulGadkoti)
 
