@@ -1,61 +1,32 @@
-# 👋 Hi, I'm Atul Gadkoti
+## 👋 About Me
 
-🎓 **Student** | 💻 **Competitive Programmer** | 📱 **Android Developer**
+Hey, I am **Atul Gadkoti**
 
-I’m a student who enjoys solving problems using **C++**, building **Android apps with Kotlin & Jetpack Compose**, and currently **learning Machine Learning** to explore data-driven solutions.
+🎓 I am a **student** who enjoys **competitive programming in C++**,  
+📱 building **Android apps using Kotlin & Jetpack Compose**,  
+and 🤖 currently **learning Machine Learning** to solve real-world problems.
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect with me
 
-- 📧 Email: **atulgadkoti@gmail.com**
-- 💻 GitHub: [atulgadkoti](https://github.com/atulgadkoti)
-- 🧠 Codeforces: https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+[![Email](https://img.shields.io/badge/Email-atulgadkoti%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:atulgadkoti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atul%20Gadkoti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & CP
-- **C / C++** (Competitive Programming)
-- **Python**
+### 💻 Competitive Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📱 App Development
-- **Kotlin**
-- **Jetpack Compose**
-- Android Development
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🤖 Machine Learning (Learning)
-- NumPy
-- Pandas
-- Scikit-learn
-- Jupyter Notebook
-
----
-
-## 🚀 Areas of Interest
-
-- Competitive Programming (Problem Solving)
-- Android App Development
-- Machine Learning & Data Analysis
-
----
-
-## 📂 Projects
-
-- 📱 **Android Apps** using Kotlin & Jetpack Compose  
-- 📊 **EDA & ML projects** with Python  
-- 🧪 Practice & learning repositories  
-
----
-
-## 📈 GitHub Stats
-
-![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulgadkoti&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atulgadkoti&layout=compact&theme=dark)
-
----
-
-### ⭐ Thanks for visiting my profile!
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
